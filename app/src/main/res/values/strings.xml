@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">panda_ion</string>
+    <string name="title_activity_main">panda_ion</string>
+    <string name="package_name">com.panda.phaserion</string>
+    <string name="custom_url_scheme">com.panda.phaserion</string>
+</resources>

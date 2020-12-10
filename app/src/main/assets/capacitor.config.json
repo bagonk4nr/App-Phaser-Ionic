@@ -1,0 +1,13 @@
+{
+  "appId": "com.panda.phaserion",
+  "appName": "panda_ion",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
